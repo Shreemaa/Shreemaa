@@ -7,7 +7,7 @@
 <pre>
     💼 UI/UX designer • Web Development • Cloud 
     💻 programming languages: C++ • Java • Javascipt
-    📖 AWS • REACT Js • Figma • HTML • CSS • JAVASCRIPT • FLUTTER
+    📖 AWS • REACT Js • Figma • HTML • CSS • JAVASCRIPT 
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
