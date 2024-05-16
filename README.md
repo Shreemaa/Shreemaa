@@ -13,8 +13,7 @@
 </pre>
 <br><br>
 
-<img src="![giphy](https://github.com/Shreemaa/Shreemaa/assets/104615201/a7643d64-7dae-4243-91ec-6dd8add083f5)
-" width="48">
+<img src="https://github.com/Shreemaa/Shreemaa/assets/104615201/a7643d64-7dae-4243-91ec-6dd8add083f5)" width="48">
 
 <br><br><br>
     
